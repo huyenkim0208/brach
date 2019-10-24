@@ -1,0 +1,70 @@
+.vungngoai{
+	width: 85%;
+	height: 385px;
+	background: #32ac97;
+	margin: 0 auto;
+}
+.vungngoai h3{
+	display: block;
+	width: 100%;
+	padding: 1rem 0;
+	/*background: blue;*/
+	text-transform: capitalize;
+	margin: 0;
+	text-align: center;
+	color: white;
+}
+.vungngoai .box{
+	float: left;
+	width: 21%;
+	height: 350px;
+	background: #46dcc7;
+	margin-top: 1rem;
+	margin-left: 2.3rem; 
+	border: 2px solid darkgray;
+}
+.box .ima{
+	float: left;
+	width: 40%;
+	height: 25%;
+	padding: 2rem;
+	margin-left: 2.5rem;
+	margin-top: 1rem;
+	background: #334960;
+	border-radius: 60%;
+	border: 2px solid white;
+	
+}
+.box .content{
+	float: left;
+	margin-left: 2%;
+	width: 100%;
+	height: 100%;
+	/*background: red;*/
+}
+.box .ima img{
+	width: 100%;
+	height: 100%;
+	
+}
+.box .content p{
+	padding: 0;
+	margin: 0;
+	text-align: center;
+}
+.box .content p.mota{
+	font-size: 20px;
+	text-align: center;
+	padding: 1rem 0.2rem;
+	color: white;
+	font-family:  Helvetica, Arial, Tahoma, sans-serif;
+}
+.box .content p.full-name{
+	margin-left: 1rem;
+	font-size: 15px;
+	width: 80%;
+    text-align: center;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
